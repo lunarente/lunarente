@@ -1,5 +1,5 @@
 ### Luciana aqui! 
-Analista de Dados em construção. 
+Analista de Dados - 🏗️ em construção 
 
 *"Nada é pequeno se feito com amor" - Santa Tereza de Lisieux*
 
