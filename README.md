@@ -14,7 +14,7 @@ Analista de Dados - 🏗️ em construção
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<a target="_blank" href="https://icons8.com/icon/qYfwpsRXEcpc/power-bi">Power BI</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/qYfwpsRXEcpc/power-bi">Power BI</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> icons8-power-bi%20(1).svg
           
 </div>   
                            
