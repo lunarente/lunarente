@@ -1,9 +1,7 @@
 ### Luciana aqui! 
-Analista de Dados - 🏗️ em construção 
+Analista de Dados  
 
 *"Nada é pequeno se feito com amor" - Santa Tereza de Lisieux*
-
-👩🏾‍💻**Pós-graduanda** em Análise de Dados
 
 💻Estudando:
 
