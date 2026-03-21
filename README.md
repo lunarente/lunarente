@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-E5C07B?style=for-the-badge&logo=gmail&logoColor=3A5A60"/>
   </a>
    <a href="https://lunarente.github.io/">
-    <img src="https://img.shields.io/badge/GitHub.io-E5C07B?style=for-the-badge&logo=github&logoColor=3A5A60"/>
+    <img src="https://img.shields.io/badge/Portfolio-E5C07B?style=for-the-badge&logo=github&logoColor=3A5A60"/>
   </a>
 </p>
 
